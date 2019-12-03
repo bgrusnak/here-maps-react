@@ -1,5 +1,5 @@
 {
-  "name": "here-maps-react",
+  "name": "@bgrusnak/here-maps-react",
   "version": "1.0.1",
   "description": "React components library for HERE Maps",
   "author": "Ilya Shlyakhovoy <bulgarus@inbox.ru>, Gustavo Ordaz <ordazgustavo@gmail.com>",
