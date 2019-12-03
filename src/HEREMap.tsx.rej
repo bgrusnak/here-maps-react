@@ -1,0 +1,4 @@
+diff a/src/HEREMap.tsx b/src/HEREMap.tsx	(rejected hunks)
+@@ -18 +18 @@ export interface HEREMapProps extends H.Map.Options, HEvents {
+-  secure?: boolean;  
++  secure?: boolean;
