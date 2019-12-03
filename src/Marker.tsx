@@ -12,6 +12,8 @@ export interface MarkerProps
     H.geo.IPoint,
     HEvents {
   bitmap?: string;
+  lat: H.geo.Latitude;
+  lng: H.geo.Longitude;
   draggable?: boolean;
 }
 

@@ -1,10 +1,10 @@
 {
   "name": "here-maps-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React components library for HERE Maps",
-  "author": "Gustavo Ordaz <ordazgustavo@gmail.com>",
+  "author": "Ilya Shlyakhovoy <bulgarus@inbox.ru>, Gustavo Ordaz <ordazgustavo@gmail.com>",
   "license": "MIT",
-  "repository": "ordazgustavo/here-maps-react",
+  "repository": "bgrusnak/here-maps-react",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "engines": {

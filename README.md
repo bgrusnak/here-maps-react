@@ -20,10 +20,12 @@ Or
 npm install --save here-maps-react
 ```
 
-The version **1.0.0** of this library uses React Hooks so you'll need to be on
+The version **1.0.1** of this library uses React Hooks so you'll need to be on
 **16.8.0** or later.
 
 ## Docs
+
+This version is patched for the using of strict Typescript mode.
 
 The Here Maps React docs are pubished at
 [https://ordazgustavo.github.io/here-maps-react](https://ordazgustavo.github.io/here-maps-react)

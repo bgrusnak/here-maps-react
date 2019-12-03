@@ -16,6 +16,8 @@ export interface HEREMapProps extends H.Map.Options, HEvents {
   hidpi?: boolean;
   interactive?: boolean;
   secure?: boolean;
+  center?: H.geo.IPoint;
+  zoom?: number;
   setLayer?: {
     layer: keyof H.service.MapType;
     mapType: keyof H.service.DefaultLayers;
