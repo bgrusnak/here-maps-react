@@ -11,21 +11,22 @@ Tree shakeable!
 ## Installation
 
 ```bash
-yarn add here-maps-react
+yarn add @bgrusnak/here-maps-react
 ```
 
 Or
 
 ```bash
-npm install --save here-maps-react
+npm install --save @bgrusnak/here-maps-react
 ```
 
 The version **1.0.1** of this library uses React Hooks so you'll need to be on
 **16.8.0** or later.
 
 ## Docs
-
-This version is patched for the using of strict Typescript mode.
+This version is patched for
+* the using of strict Typescript mode.
+* do not remove Marker on change coordinates 
 
 The Here Maps React docs are pubished at
 [https://ordazgustavo.github.io/here-maps-react](https://ordazgustavo.github.io/here-maps-react)
@@ -36,4 +37,4 @@ conform to React StrictMode, as well as, adding new components.
 
 ## License
 
-MIT © [ordazgustavo](https://github.com/ordazgustavo)
+MIT © [bgrusnak](https://github.com/bgrusnak)
